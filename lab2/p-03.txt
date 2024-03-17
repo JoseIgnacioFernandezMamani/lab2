@@ -1,0 +1,16 @@
+Características importantes de TypeScript:
+
+- Debe definirse el tipo de dato declarado en ts
+- Proporciona características de orientación a objetos como clases, interfaces y herencia.
+- Permite el uso de módulos para organizar y reutilizar código.
+//se le dan las caracteristicas de un lenguaje orientado a objetos, fascinante, pense que JS ya era orientado a objetos pero no del todo.
+- Detecta errores en tiempo de compilación en lugar de en tiempo de ejecución.
+- Permite compilar a versiones específicas de JavaScript para uso de versiones antiguas de JS y mantener la compatibilidad con sistemas antiguos.
+- Es altamente compatible con JavaScript existente, lo que facilita la transición.
+
+Diferencias entre TypeScript y JavaScript:
+
+- TypeScript agrega tipado estático, mientras que JavaScript es de tipado dinámico.
+- TypeScript permite la declaración de tipos, lo que mejora la detección de errores.
+- TypeScript es compilado a JavaScript antes de la ejecución, mientras que JavaScript se interpreta directamente.
+- TypeScript ofrece características de orientación a objetos más avanzadas que JavaScript.

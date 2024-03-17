@@ -1,0 +1,8 @@
+ template String
+ cadenas literales que habilitan el uso de expresiones incrustadas
+
+ Características de los template strings:
+
+- Permiten la interpolación de variables dentro de una cadena de texto especificamente dentro de un template string con comillas.
+- Facilitan la creación de cadenas de texto multilínea respetando los saltos de linea del codigo.
+- Pueden contener expresiones incrustadas dentro de `${}` para evaluación de ese sector
